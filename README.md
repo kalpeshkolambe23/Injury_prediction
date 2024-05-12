@@ -6,7 +6,8 @@
 Application URL Links : (https://sprightly-lamington-6436b2.netlify.app/)
 
 # UI Photo :
-![image](https://github.com/kalpeshkolambe23/SMS_Spam_Classifier/assets/134715363/53d08342-ca0d-4e98-aeea-be2864a7549b)
+![image](https://github.com/kalpeshkolambe23/Injury_prediction/assets/134715363/83f0aa10-3319-43d4-b34c-adbdd35ed9ad)
+
 
 
 
@@ -20,7 +21,8 @@ Application URL Links : (https://sprightly-lamington-6436b2.netlify.app/)
 
 
 ## About project
-SMS spam classifier is a machine learning model designed to identify and distinguish between spam and legitimate text messages.
+Developed and deployed a predictive model using XGBoost for Premier League soccer players. Integrated playtime, injury history, and physical attributes, resulting in improved risk assessment and team
+management
 
 
 
@@ -35,7 +37,7 @@ This project is created with below technologies/tools/resources:
 
 ## Software and account Requirement
 1. [Github Account]
-2. [Streamlit Account]
+2. [Netlify Account]
 3. [VS Code IDE]
 
 
